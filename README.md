@@ -40,6 +40,9 @@ python main.py
 7. Keep the window open for as long as you want to use the bot.
 8. To exit, press the ENTER key or close the window.
 
+Tutorial can be found here:
+https://www.youtube.com/watch?v=-POxHKOrUqo
+
 ## Disclaimer
 This script is provided for educational and experimental purposes only. The use of such tools to increase viewers on Twitch without proper authorization is against Twitch's terms of service and can result in account suspension or other penalties. Use this tool responsibly and with permission from the respective platform.
 
