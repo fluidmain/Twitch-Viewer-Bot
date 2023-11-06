@@ -1,0 +1,4 @@
+colorama
+pystyle
+selenium
+requests
